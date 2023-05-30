@@ -1,0 +1,318 @@
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+#kwad {
+    background-color: rgba(46, 79, 79, 0.5);
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 20px;
+    margin: 5px;
+    z-index: 1;
+    position: absolute;
+    left: 10%;
+    top: 35%;
+    word-wrap: break-word;
+    width: 40%;
+    height: auto;
+    font-size: x-large;
+
+}
+
+
+#logo {
+    position: absolute;
+    background-color: #2e4f4f;
+    width: 10%;
+    height: 10%;
+    z-index: 1;
+    box-shadow: 4px 4px 4px #000000;
+
+}
+
+#obraz {
+    height: 100%;
+    width: 100%;
+
+}
+
+#baner {
+    width: 90%;
+    left: 10%;
+    height: 10%;
+    position: absolute;
+    z-index: 0;
+
+    background-color: #2e4f4f;
+
+}
+
+#wybor {
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    position: absolute;
+    margin: 1%;
+    margin-left: 30%;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.wyb {
+
+    gap: 1em;
+
+}
+
+.wyb :hover {
+
+    transition: 0.3s ease;
+    color: #5d9c59;
+}
+
+#wybor1 {
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+#wybor2 {
+    color: white;
+    position: relative;
+    left: 2%;
+    text-align: left;
+    font-size: x-large;
+
+
+}
+
+#lokalizacja {
+    color: white;
+    font-size: large;
+    position: absolute;
+    right: 2%;
+    bottom: 5%;
+    text-align: left;
+
+}
+
+#srodek {
+    position: absolute;
+    width: 100%;
+    top: 10%;
+    height: 80%;
+    z-index: 0;
+}
+
+#srodek_oferta {
+    position: absolute;
+    width: 100%;
+    top: 10%;
+    height: 90%;
+    z-index: 0;
+
+}
+
+#srodek_kontakt {
+    position: absolute;
+    width: 50%;
+    top: 10%;
+    height: 90%;
+    background-color: e0e0e0;
+    float: left;
+}
+
+#srodek_galeria {
+    position: absolute;
+    width: 100%;
+    top: 10%;
+    height: 90%;
+    background-color: #e0e0e0;
+    float: left;
+}
+
+#galeria {
+    width: 98%;
+    height: 80%;
+    left: 1%;
+    top: 10%;
+    position: relative;
+
+
+}
+
+#zdjecia {
+    top: 30%;
+    width: 50%;
+    height: auto;
+    position: relative;
+}
+
+form {
+    position: absolute;
+    top: 4%;
+    left: 2%;
+    width: 90%;
+    height: 90%;
+    background-color: #2e4f4f;
+    border-radius: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-size: large;
+
+
+}
+
+#srodek_kontakt1 {
+    position: absolute;
+    width: 50%;
+    top: 10%;
+    left: 50%;
+    height: 90%;
+
+
+}
+
+#lokal {
+    background-color: #2e4f4f;
+    position: absolute;
+    top: 4%;
+    width: 90%;
+    height: 90%;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+#mapa {
+    width: 60%;
+    height: 60%;
+}
+
+#stopkaostatnia_oferta {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    height: 25%;
+    background-color: #2e4f4f;
+
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+    top: 10%;
+    position: relative;
+    text-align: center;
+    color: #315e26;
+    font-size: xx-large;
+
+}
+
+table {
+    width: 98%;
+    height: 50%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.pikto {
+    width: 30%;
+    height: auto;
+}
+
+#stopka {
+
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 90%;
+    height: 125%;
+
+
+}
+
+#ciezarowki {
+    width: 90%;
+    height: auto;
+    padding: auto;
+    text-align: center;
+
+}
+
+#pierwsza_ciezarowka {
+    left: 5%;
+    position: absolute;
+
+
+}
+
+#druga_ciezarowka {
+    left: 38%;
+    position: absolute;
+
+
+}
+
+#trzecia_ciezarowka {
+    left: 70%;
+    position: absolute;
+
+
+}
+
+
+#partnerzy {
+    top: 30%;
+    position: relative;
+
+}
+
+#pierwszy_partner {
+    align-items: center;
+    width: 100%;
+
+    position: absolute;
+
+}
+
+
+
+#stopkaostatnia {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 200%;
+    height: 25%;
+    background-color: #2e4f4f;
+
+}
+
+#media {
+    width: 20%;
+    height: auto;
+    margin: 1%;
+
+}
+
+#media1 {
+    width: 5%;
+    height: auto;
+
+
+}
